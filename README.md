@@ -25,9 +25,6 @@ Faço Engenharia da Computação na UNIVASF, em Juazeiro, e sou apaixonado por c
     * *Fase 1:* Formação prática em Sistemas Embarcados e microcontroladores.
     * *Fase 2:* Residência em FPGAs, focada no desenvolvimento e na arquitetura de hardware com um chip Xilinx.
 
-<!---
 ## 📫 Vamos nos conectar?
 Fique à vontade para entrar em contato:
-* [LinkedIn]()
-* [Instagram]()
---->
+* [LinkedIn](www.linkedin.com/in/gabriel-cavalcanti-coelho)
