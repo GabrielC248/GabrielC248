@@ -27,4 +27,4 @@ Faço Engenharia da Computação na UNIVASF, em Juazeiro, e sou apaixonado por c
 
 ## 📫 Vamos nos conectar?
 Fique à vontade para entrar em contato:
-* [LinkedIn](www.linkedin.com/in/gabriel-cavalcanti-coelho)
+* [LinkedIn](https://www.linkedin.com/in/gabriel-cavalcanti-coelho/)
